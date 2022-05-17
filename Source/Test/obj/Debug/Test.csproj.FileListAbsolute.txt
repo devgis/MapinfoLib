@@ -1,0 +1,9 @@
+E:\Temp\Code006\Test\obj\Debug\Test.exe
+E:\Temp\Code006\Test\obj\Debug\Test.pdb
+E:\Temp\Code006\Realease\Test.exe
+E:\Temp\Code006\Realease\Test.pdb
+E:\Temp\Code006\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Temp\Code006\Test\obj\Debug\GISLib.Test.Form1.resources
+E:\Temp\Code006\Test\obj\Debug\GISLib.Test.Properties.Resources.resources
+E:\Temp\Code006\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Temp\Code006\Realease\Test.exe.config

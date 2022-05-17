@@ -1,0 +1,7 @@
+E:\Temp\Code006\GISWeb\bin\GISWeb.dll
+E:\Temp\Code006\GISWeb\bin\GISWeb.pdb
+E:\Temp\Code006\GISWeb\obj\Debug\GISWeb.dll
+E:\Temp\Code006\GISWeb\obj\Debug\GISWeb.pdb
+E:\Temp\Code006\GISWeb\bin\GISLib.dll
+E:\Temp\Code006\GISWeb\bin\GISLib.pdb
+E:\Temp\Code006\GISWeb\obj\Debug\GISWeb.csprojResolveAssemblyReference.cache

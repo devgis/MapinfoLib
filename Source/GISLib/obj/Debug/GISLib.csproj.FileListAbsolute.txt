@@ -1,0 +1,7 @@
+E:\Temp\Code006\Realease\GISLib.dll
+E:\Temp\Code006\Realease\GISLib.pdb
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.Properties.Resources.resources
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.csproj.GenerateResource.Cache
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.dll
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.pdb
+E:\Temp\Code006\GISLib\obj\Debug\GISLib.csprojResolveAssemblyReference.cache
